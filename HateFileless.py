@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""
-HateFileless v4.0  —  Fileless Detection Suite
-Ejecutar como Administrador en Windows.
-  python HateFileless.py           # escaneo real
-  python HateFileless.py --demo    # datos de ejemplo
-  pip install customtkinter
-"""
 import os, sys, re, csv, json, html, queue, ctypes, time, math
 import subprocess, threading
 import tkinter as tk
